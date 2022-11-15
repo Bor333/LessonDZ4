@@ -12,7 +12,6 @@ describe('MessageList', () => {
   //   render(<MessageList messages={[]} />);
   //   expect(screen.queryAllByRole('li').length).toBe(0);
   // });
-
   // it('messages list length is 2', () => {
   //   const messages: Messages = [
   //     {
