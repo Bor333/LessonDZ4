@@ -4,7 +4,7 @@ import { FC, useState } from 'react';
 import { nanoid } from 'nanoid';
 import { Chat } from 'src/constants';
 
-// const nanoid = customAlphabet('1234567890', 10);
+
 
 
 export const ChatList = ({ chats, onAddChat }) => {
