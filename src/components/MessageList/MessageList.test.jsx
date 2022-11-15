@@ -16,7 +16,7 @@ describe('MessageList', () => {
   //   const messages: Messages = [
   //     {
   //       author: AUTHOR.USER,
-  //       value: 'first',
+  //      value: 'first',
   //     },
   //     {
   //       author: AUTHOR.USER,
